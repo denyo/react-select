@@ -1,6 +1,6 @@
 {
-  "name": "react-select",
-  "version": "3.0.4",
+  "name": "@denyo/react-select",
+  "version": "3.0.5",
   "description": "A Select control built with and for ReactJS",
   "main": "dist/react-select.cjs.js",
   "module": "dist/react-select.esm.js",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JedWatson/react-select.git"
+    "url": "https://github.com/denyo/react-select.git"
   },
   "dependencies": {
     "@babel/runtime": "^7.4.4",
